@@ -1,7 +1,7 @@
 using CompanyName.ERPNext.Entities.Base;
 using System;
 
-namespace CompanyName.ERPNext.Entities.HR;
+namespace CompanyName.ERPNext.Entities.HumanRessource;
 
 /// <summary>
 /// Represents an employee's attendance record.

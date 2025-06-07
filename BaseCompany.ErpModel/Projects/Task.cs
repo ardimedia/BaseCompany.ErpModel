@@ -1,5 +1,5 @@
 using CompanyName.ERPNext.Entities.Base;
-using CompanyName.ERPNext.Entities.HR;
+using CompanyName.ERPNext.Entities.HumanRessource;
 
 namespace CompanyName.ERPNext.Entities.Projects;
 

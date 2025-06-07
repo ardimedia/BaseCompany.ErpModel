@@ -1,7 +1,7 @@
 using CompanyName.ERPNext.Entities.Base;
 using System.Collections.Generic;
 
-namespace CompanyName.ERPNext.Entities.HR;
+namespace CompanyName.ERPNext.Entities.HumanRessource;
 
 /// <summary>
 /// Represents a department within the organization.
