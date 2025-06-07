@@ -1,6 +1,6 @@
-using CompanyName.ERPNext.Entities.Base;
+using BaseCompany.ErpModel.Base;
 
-namespace CompanyName.ERPNext.Entities.Education;
+namespace BaseCompany.ErpModel.Education;
 
 /// <summary>
 /// Represents a student's enrollment in a course or program.

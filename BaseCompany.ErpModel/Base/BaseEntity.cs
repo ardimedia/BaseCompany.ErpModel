@@ -1,4 +1,4 @@
-namespace CompanyName.ERPNext.Entities.Base;
+namespace BaseCompany.ErpModel.Base;
 
 /// <summary>
 /// Represents the base entity with a unique identifier.

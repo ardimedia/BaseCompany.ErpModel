@@ -1,11 +1,11 @@
-using CompanyName.ERPNext.Entities.Base;
-using CompanyName.ERPNext.Entities.Enums;
-using CompanyName.ERPNext.Entities.Sales;
-using CompanyName.ERPNext.Entities.Purchase;
+using BaseCompany.ErpModel.Base;
+using BaseCompany.ErpModel.Enums;
+using BaseCompany.ErpModel.Sales;
+using BaseCompany.ErpModel.Purchase;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace CompanyName.ERPNext.Entities.Inventory;
+namespace BaseCompany.ErpModel.Inventory;
 
 /// <summary>
 /// Represents an item or product available for sale or purchase.

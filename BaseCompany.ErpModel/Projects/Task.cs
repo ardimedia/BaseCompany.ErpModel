@@ -1,7 +1,7 @@
-using CompanyName.ERPNext.Entities.Base;
-using CompanyName.ERPNext.Entities.HumanRessource;
+using BaseCompany.ErpModel.Base;
+using BaseCompany.ErpModel.HumanRessource;
 
-namespace CompanyName.ERPNext.Entities.Projects;
+namespace BaseCompany.ErpModel.Projects;
 
 /// <summary>
 /// Represents a task that is part of a project.

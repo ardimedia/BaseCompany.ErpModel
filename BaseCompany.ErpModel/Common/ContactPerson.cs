@@ -1,7 +1,7 @@
-using CompanyName.ERPNext.Entities.Base;
+using BaseCompany.ErpModel.Base;
 using System;
 
-namespace CompanyName.ERPNext.Entities.Common;
+namespace BaseCompany.ErpModel.Common;
 
 /// <summary>
 /// Represents a contact person for an organization or entity.

@@ -7,7 +7,7 @@
     <Authors>CompanyName</Authors>
     <Company>CompanyName</Company>
     <Description>ERPNext-based business entities for .NET applications.</Description>
-    <PackageId>CompanyName.ERPNext.Entities</PackageId>
+    <PackageId>BaseCompany.ErpModel</PackageId>
     <RepositoryUrl>https://github.com/your-repo-url</RepositoryUrl>
   </PropertyGroup>
 

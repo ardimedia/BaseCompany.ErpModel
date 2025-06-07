@@ -1,4 +1,4 @@
-namespace CompanyName.ERPNext.Entities.Enums;
+namespace BaseCompany.ErpModel.Enums;
 
 /// <summary>
 /// Represents the status of an order in the system.

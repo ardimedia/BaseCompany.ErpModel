@@ -1,6 +1,6 @@
-using CompanyName.ERPNext.Entities.Base;
+using BaseCompany.ErpModel.Base;
 
-namespace CompanyName.ERPNext.Entities.Quality;
+namespace BaseCompany.ErpModel.Quality;
 
 /// <summary>
 /// Represents a quality inspection performed on a product or batch.

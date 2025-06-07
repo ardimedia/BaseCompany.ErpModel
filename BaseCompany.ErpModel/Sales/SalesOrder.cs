@@ -1,11 +1,11 @@
-using CompanyName.ERPNext.Entities.Base;
-using CompanyName.ERPNext.Entities.Enums;
-using CompanyName.ERPNext.Entities.Sales;
+using BaseCompany.ErpModel.Base;
+using BaseCompany.ErpModel.Enums;
+using BaseCompany.ErpModel.Sales;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace CompanyName.ERPNext.Entities.Sales;
+namespace BaseCompany.ErpModel.Sales;
 
 /// <summary>
 /// Represents a sales order placed by a customer.

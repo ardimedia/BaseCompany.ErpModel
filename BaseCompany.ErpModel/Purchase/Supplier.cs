@@ -1,9 +1,9 @@
-using CompanyName.ERPNext.Entities.Base;
-using CompanyName.ERPNext.Entities.Purchase;
-using CompanyName.ERPNext.Entities.Common;
+using BaseCompany.ErpModel.Base;
+using BaseCompany.ErpModel.Purchase;
+using BaseCompany.ErpModel.Common;
 using System.Collections.Generic;
 
-namespace CompanyName.ERPNext.Entities.Purchase;
+namespace BaseCompany.ErpModel.Purchase;
 
 /// <summary>
 /// Represents a supplier entity that provides goods or services.

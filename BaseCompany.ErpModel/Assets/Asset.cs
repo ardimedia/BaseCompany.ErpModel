@@ -1,6 +1,6 @@
-using CompanyName.ERPNext.Entities.Base;
+using BaseCompany.ErpModel.Base;
 
-namespace CompanyName.ERPNext.Entities.Assets;
+namespace BaseCompany.ErpModel.Assets;
 
 /// <summary>
 /// Represents a fixed asset in the organization.

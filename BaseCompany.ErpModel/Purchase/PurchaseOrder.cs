@@ -1,8 +1,8 @@
-using CompanyName.ERPNext.Entities.Base;
-using CompanyName.ERPNext.Entities.Purchase;
-using CompanyName.ERPNext.Entities.Sales;
+using BaseCompany.ErpModel.Base;
+using BaseCompany.ErpModel.Purchase;
+using BaseCompany.ErpModel.Sales;
 
-namespace CompanyName.ERPNext.Entities.Purchase;
+namespace BaseCompany.ErpModel.Purchase;
 
 /// <summary>
 /// Represents a purchase order issued to a supplier.

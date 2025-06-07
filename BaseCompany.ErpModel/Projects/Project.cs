@@ -1,10 +1,10 @@
-using CompanyName.ERPNext.Entities.Base;
-using CompanyName.ERPNext.Entities.Projects;
+using BaseCompany.ErpModel.Base;
+using BaseCompany.ErpModel.Projects;
 using System;
 using System.Collections.Generic;
-using CompanyName.ERPNext.Entities.HumanRessource;
+using BaseCompany.ErpModel.HumanRessource;
 
-namespace CompanyName.ERPNext.Entities.Projects;
+namespace BaseCompany.ErpModel.Projects;
 
 /// <summary>
 /// Represents a business project composed of tasks.

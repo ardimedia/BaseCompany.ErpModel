@@ -1,7 +1,7 @@
-using CompanyName.ERPNext.Entities.Base;
+using BaseCompany.ErpModel.Base;
 using System;
 
-namespace CompanyName.ERPNext.Entities.Finance;
+namespace BaseCompany.ErpModel.Finance;
 
 /// <summary>
 /// Represents a payment made for a sales or purchase order.
